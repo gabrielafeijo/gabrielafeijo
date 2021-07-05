@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriela Feijó</h1>
 <h3 align="center">A passionate web developer student from Brazil</h3>
 
-- 🔭 I’m currently studying web development [at Trybe](https://www.betrybe.com/)
+- 🔭 I’m currently studying to be a full-stack developer
 
-- 🌱 I’m currently learning **Front-end development**
+- 🌱 I’m currently learning **front-end development** [at Trybe](https://www.betrybe.com/)
 
 - 👨‍💻 All of my projects are available at [https://gabrielafeijo.github.io/](https://gabrielafeijo.github.io/)
 
