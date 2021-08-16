@@ -9,8 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <div>[![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?gabrielafeijo)](https://github.com/gabrielafeijo/github-readme-stats)
-</div>
 <a href="https://www.linkedin.com/in/gabriela-feijo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriela-feijo/" height="30" width="40" /></a>
 </p>
 
